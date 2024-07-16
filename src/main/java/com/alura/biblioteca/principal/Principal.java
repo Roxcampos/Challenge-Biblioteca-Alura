@@ -32,7 +32,7 @@ public class Principal {
         var opcion = -1;
         while (opcion != 0) {
             var menu = """
-                    Elija la tarea a través de su número:
+                    MENU, ingrese la opción que desea:
                     1- buscar libro por título
                     2- listar libros 
                     3- listar autores 
